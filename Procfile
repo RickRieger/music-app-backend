@@ -1,2 +1,2 @@
-web: gunicorn music-app-backend.wsgi
+web: gunicorn MUSIC-APP-BACKEND.wsgi
 
